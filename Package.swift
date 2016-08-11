@@ -18,11 +18,6 @@ import PackageDescription
 
 let package = Package(
     name: "Bridging",
-          targets: [
-            Target(
-                name: "Bridging",
-                dependencies: [])
-    ],
     dependencies: [ ],
 )
 
