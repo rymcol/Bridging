@@ -18,6 +18,7 @@ import PackageDescription
 
 let package = Package(
     name: "Bridging",
-    dependencies: [ ],
+    dependencies: [],
 )
+
 
